@@ -1,0 +1,25 @@
+.nav--container{
+    display: flex;
+    position: fixed;
+    width: 100%;
+}
+
+.nav--container-scroll{
+    display: flex;
+    position: fixed;
+    background-color: black;
+    width: 100%;
+}
+
+.nav--list{
+    display: flex;
+    list-style-type: none;
+    align-items: flex-start;
+    gap: 25px;
+    font-size: 1.2rem;
+}
+
+.nav--list li:hover{
+    text-decoration: underline;
+}
+

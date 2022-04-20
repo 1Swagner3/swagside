@@ -1,0 +1,66 @@
+.developer-container{
+    background-image: url('/public/pictures/DeveloperPage.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+    height: fit-content;
+    display: flex;
+    flex-flow: column;
+}
+
+.dev-content{
+    display: flex;
+    justify-content: flex-start;
+    flex-flow: column;
+    padding-left: 10%;
+    margin-top: 120px;
+}
+
+.dev-content p{
+    width: 40%;
+}
+
+.certificates{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    padding-left: 10%;
+    padding-right: 10%;
+    margin-top: 80px;
+    padding-bottom: 80px;
+    border-bottom: 1px solid rgb(58, 58, 58);
+}
+
+.certificates img{
+    height: auto;
+    width: 200px;
+    margin-top: 20px;
+}
+
+.dev-sec1{
+    display: flex;
+    align-items: center;
+    padding-left: 10%;
+    padding-right: 10%;
+    gap: 10%;
+    margin-top: 150px;
+}
+
+.dev-sec1 img{
+    width: 50%;
+}
+
+.dev-sec2{
+    display: flex;
+    align-items: center;
+    padding-left: 10%;
+    padding-right: 10%;
+    gap: 10%;
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+
+.dev-sec2 img{
+    width: 50%;
+}

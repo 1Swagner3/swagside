@@ -1,0 +1,43 @@
+.container{
+    width: 100%;
+    min-height: 800px;
+    background-image: url('/public/pictures/MusicianSelectScreen.png');
+    background-size: cover;
+    background-position: center top;
+}
+
+.link--container{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 600px;
+}
+
+.link{
+    padding: 20px;
+    text-align: center;
+
+}
+
+.link h3{
+    margin: 0px;
+    font-size: 2rem;
+}
+
+.link p{
+    margin: 0px;
+    font-size: 1rem;
+}
+
+.link:hover{
+    border-radius: 25px;
+    background-color: hsla(0, 100%, 100%, 0.3)
+}
+
+#title{
+    font-family: 'Cinzel', serif;
+    font-size: 2.5rem;
+}
+
+#title-line{
+    font-size: 1.5rem;
+}

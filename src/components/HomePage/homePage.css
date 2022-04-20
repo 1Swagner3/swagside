@@ -1,0 +1,53 @@
+.home--container{
+    background-image: url('/public/pictures/HomePagePic.png');
+    background-size: cover;
+    background-position: right top;
+    min-height: fit-content;
+
+}
+
+.home--content{
+    display: flex;
+    flex-flow: column;
+    padding-top: 20%;
+    padding-left: 5%;
+}
+
+.home--underline{
+    display: flex;
+    align-items: center;
+    gap: 20px
+}
+
+#home-header{
+    font-size: 3rem;
+}
+
+button{
+    max-width: 150px;
+    max-height: 20px;
+    background-color: black;
+    color: white;
+    border-radius: 25px;
+    border-color: white;
+}
+
+h1{
+    margin: 0;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+#ibox:hover{
+    color: white;
+}
+.iconrow{
+    display: flex;
+    gap: 35px;
+    margin-left: 5%;
+    margin-top: 250px;
+    padding-bottom: 30px;
+}

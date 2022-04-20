@@ -1,0 +1,13 @@
+.skillcard{
+    display: flex;
+    flex-flow: column;
+    background-color: rgb(20, 20, 20);
+    width: fit-content;
+    min-width: 40px;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    box-shadow: 2px 2px gray;
+    border-radius: 10px;
+
+}
