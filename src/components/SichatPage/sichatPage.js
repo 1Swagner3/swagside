@@ -67,7 +67,7 @@ const SicHatPage = () => {
             </div>
             <div className="section3">
                 <div className="sec3--comtent">
-                    <img src="/pictures/KingdomHeartsErstentwurf.png" />
+                    <img src="/pictures/KingdomHeartsErstentwurf.png" alt=""/>
                     <div className="sh-para2">
                         <h3>My Ambition</h3>
                         <p>Every starting artist out there knows the struggle of having <em>big visions but small resources</em>. 

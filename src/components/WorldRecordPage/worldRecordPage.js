@@ -35,7 +35,7 @@ const WorldRecordPage = () => {
                         A sound beyond brutal, that was our goal.
                     </p>
                 </div>
-                <img src="/pictures/WorldRecord.jpg"/>
+                <img src="/pictures/WorldRecord.jpg" alt=""/>
             </div>
             <div className="wr-section3">
                 <div className="wr-video">
@@ -43,11 +43,11 @@ const WorldRecordPage = () => {
                     <a href="https://www.youtube.com/results?search_query=way+to+bodhi"><FontAwesomeIcon icon={faYoutube} size="3x"/></a>
                     <iframe width="560" height="315" src="https://www.youtube.com/embed/j5hrB9vwE58" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     <a href="https://de.wikipedia.org/wiki/Way_to_Bodhi"><FontAwesomeIcon icon={faWikipediaW} size="3x"/></a>
-                    <a href=""><FontAwesomeIcon icon={faFacebook} size="3x"/></a>
+                    <a href="https://de.wikipedia.org/wiki/Way_to_Bodhi"><FontAwesomeIcon icon={faFacebook} size="3x"/></a>
                 </div>
             </div>
             <div className="wr-section4">
-                <img src="/pictures/WtbPic2.jpg"/>
+                <img src="/pictures/WtbPic2.jpg" alt=""/>
                 <div>
                     <h3>The Decision</h3>
                     <p>
@@ -96,7 +96,7 @@ const WorldRecordPage = () => {
                         While a truly amazing thing to be part of one thing made us even happier: we finally were able to create the sound we envisioned for so long.
                     </p>
                 </div>
-                <img src="/pictures/WtbPic4.jpg"/>
+                <img src="/pictures/WtbPic4.jpg" alt=""/>
             </div>
         </>
     )

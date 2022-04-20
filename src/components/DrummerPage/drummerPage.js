@@ -36,11 +36,11 @@ const DrummerPage = () => {
                 </p>
                 </div>
                 
-                <img src="/pictures/DrumPic1.jpg"/>
+                <img src="/pictures/DrumPic1.jpg" alt=""/>
             </div>
         </div>
         <div className="drum-sec5">
-            <img src="/pictures/DrumPic2.jpg"/>
+            <img src="/pictures/DrumPic2.jpg" alt=""/>
             <div className="drum-sec5-p">
                 <h3>The Australian Journey</h3>
                 <p>
@@ -77,7 +77,7 @@ const DrummerPage = () => {
             </div>
         </div>
         <div className="drum-sec5">
-            <img src="/pictures/DrumPic4.jpg" id="drumPic4"/>
+            <img src="/pictures/DrumPic4.jpg" id="drumPic4" alt=""/>
             <div className="drum-sec5-p">
                 <h3>A Drummer and his Worldrecord</h3>
                 <p>

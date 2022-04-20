@@ -85,10 +85,10 @@ const DeveloperPage = () => {
                 </div>
             </div>
             <div className="certificates">
-                    <img src="/pictures/JS.png" />
-                    <img src="/pictures/PHP.png"/>
-                    <img src="/pictures/FullStack.png"/>
-                    <img src="/pictures/CS50x.png"/>
+                    <img src="/pictures/JS.png" alt=""/>
+                    <img src="/pictures/PHP.png" alt=""/>
+                    <img src="/pictures/FullStack.png" alt=""/>
+                    <img src="/pictures/CS50x.png" alt=""/>
                 </div>
             <div className="dev-sec1">
                 <div>
@@ -99,10 +99,10 @@ const DeveloperPage = () => {
                         Sadly the company was facing some troubles and so my first job didn’t last long.
                     </p>
                 </div>
-                <img src="/pictures/DevPic1.jpg"/>
+                <img src="/pictures/DevPic1.jpg" alt=""/>
             </div>
             <div className="dev-sec2">
-                <img src="/pictures/DevPic2.jpg"/>
+                <img src="/pictures/DevPic2.jpg" alt=""/>
                 <div>
                     <h3>Full Stack</h3>
                     <p>

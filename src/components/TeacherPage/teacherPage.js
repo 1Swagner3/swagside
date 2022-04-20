@@ -93,7 +93,7 @@ const TeacherPage = () => {
                         Things just came to me and I tought my students well.
                     </p>
                 </div>
-                <img src="/pictures/TeacherPic1.jpg"/>
+                <img src="/pictures/TeacherPic1.jpg" alt=""/>
             </div>
             <div className="teach-sec2">
                 <div className="teach-sec2-content">
